@@ -1,2 +1,2 @@
-# 34C-OOP
+# 35C-OOP
 Weekly task of Java/OOP
